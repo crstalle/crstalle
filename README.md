@@ -12,6 +12,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=crstalle&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+## 🎖️Awards and Participations in Competitions
+🥇1st place, 3rd Greek National Competition in Statistics (2020)
+📊Finalist in 3rd European Competition in Statistics (2020)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
