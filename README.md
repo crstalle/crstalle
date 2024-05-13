@@ -1,8 +1,26 @@
 <!-- crstalle's personal biography -->
-# Crstalle's Personal Bio
-🎓Student in Department of Informatics and Telecommunications, University of Athens <br/>
-🧠Currently learning C and MIPS Assembly <br/>
-🧑‍💻Programmer who shares [fun problems](https://github.com/crstalle/Fun-Problems) <br/>
+# 💫 About Me:
+🎓Student in Department of Informatics and Telecommunications, University of Athens<br>🧠Currently learning C and MIPS Assembly<br>🧑‍💻Programmer who solves fun problems
 
-![crstalle's GitHub stats](https://github-readme-stats.vercel.app/api?username=crstalle&theme=midnight-purple&show_icons=true)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Lynx) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=crstalle&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=crstalle&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crstalle&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=crstalle&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=crstalle&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
