@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) <br/>
 
-## 🎖️Awards and Participations in Competitions
+# 🎖️ Awards and Participations in Competitions
 🥇1st place, 3rd Greek National Competition in Statistics (2020) <br/>
 📊Finalist in 3rd European Competition in Statistics (2020) <br/>
 
