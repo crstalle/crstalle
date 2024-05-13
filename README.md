@@ -1,13 +1,13 @@
 <!-- crstalle's personal biography -->
 # 💫 About Me:
-🎓Student in Department of Informatics and Telecommunications, University of Athens<br>🧠Currently learning C and MIPS Assembly<br>🧑‍💻Programmer who solves [fun problems](https://github.com/crstalle/Fun-Problems) <br/>
+🎓 Student in Department of Informatics and Telecommunications, University of Athens<br>🧠 Currently learning C and MIPS Assembly<br>🧑‍💻 Programmer who solves [fun problems](https://github.com/crstalle/Fun-Problems) <br/>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) <br/>
 
 # 🎖️ Awards and Participations in Competitions
-🥇1st place, 3rd Greek National Competition in Statistics (2020) <br/>
-📊Finalist in 3rd European Competition in Statistics (2020) <br/>
+🥇 1st place, 3rd Greek National Competition in Statistics (2020) <br/>
+📊 Finalist in 3rd European Competition in Statistics (2020) <br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crstalle&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
