@@ -1,10 +1,6 @@
 <!-- crstalle's personal biography -->
 # 💫 About Me:
-🎓Student in Department of Informatics and Telecommunications, University of Athens<br>🧠Currently learning C and MIPS Assembly<br>🧑‍💻Programmer who solves fun problems
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Lynx) 
+🎓Student in Department of Informatics and Telecommunications, University of Athens<br>🧠Currently learning C and MIPS Assembly<br>🧑‍💻Programmer who solves [fun problems](https://github.com/crstalle/Fun-Problems)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
