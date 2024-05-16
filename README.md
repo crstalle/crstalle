@@ -2,7 +2,7 @@
 # 💫 About Me:
 🎓 Student in Department of Informatics and Telecommunications, University of Athens<br>
 ☑️ Currently excelling C <br/>
-🧠 Self-studying HTML <br/>
+🧠 Self-teaching HTML <br/>
 🧑‍💻 Programmer who solves [fun problems](https://github.com/crstalle/Fun-Problems) <br/>
 
 # 💻 Tech Stack:
